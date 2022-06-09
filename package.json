@@ -1,0 +1,22 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "In this project. JS functionalities were created and a test file was created to check if the functionalities works with jest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamba56/Testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kamba56/Testing/issues"
+  },
+  "homepage": "https://github.com/Kamba56/Testing#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
