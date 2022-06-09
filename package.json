@@ -4,7 +4,8 @@
   "description": "In this project. JS functionalities were created and a test file was created to check if the functionalities works with jest.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "watch": "jest --watch *.js"
   },
   "repository": {
     "type": "git",
